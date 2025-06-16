@@ -9,7 +9,7 @@ table{
 	width:100%;
 }
 
-th{
+th,td:first-child{
 	text-align:left;
 }
 
